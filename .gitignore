@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.ipynb_checkpoints
+
+# Data files (nếu file CSV quá nặng)
+*.csv
